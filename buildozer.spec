@@ -7,7 +7,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
 version = 0.2
-requirements = python3==3.11.5,hostpython3==3.11.5,kivy==2.3.0
+requirements = python3==3.11.5,hostpython3==3.11.5,kivy==2.3.0,cython==0.29.36
 
 android.permissions = INTERNET
 android.ndk = 25b
